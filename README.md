@@ -1,0 +1,2 @@
+# yakaservice-site-vitrine
+public
